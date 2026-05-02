@@ -1,0 +1,15 @@
+/home/naosh/code/SP/sonifying-billiards/sim-lib/target/wasm32-unknown-unknown/release/deps/getrandom-0b3250d0635e333a.d: /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/lib.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/backends.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/util.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error_std_impls.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/sys_rng.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/../README.md
+
+/home/naosh/code/SP/sonifying-billiards/sim-lib/target/wasm32-unknown-unknown/release/deps/libgetrandom-0b3250d0635e333a.rlib: /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/lib.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/backends.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/util.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error_std_impls.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/sys_rng.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/../README.md
+
+/home/naosh/code/SP/sonifying-billiards/sim-lib/target/wasm32-unknown-unknown/release/deps/libgetrandom-0b3250d0635e333a.rmeta: /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/lib.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/backends.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/util.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error_std_impls.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/sys_rng.rs /home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/../README.md
+
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/lib.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/backends.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/util.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/error_std_impls.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/sys_rng.rs:
+/home/naosh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.4.2/src/../README.md:
+
+# env-dep:CARGO_PKG_VERSION=0.4.2
